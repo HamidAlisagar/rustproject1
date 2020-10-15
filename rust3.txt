@@ -1,1 +1,2 @@
 Hello i am rust 3rd project file
+hello how are you
